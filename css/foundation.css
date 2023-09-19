@@ -214,7 +214,7 @@ template {
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-size: 100%;
+  font-size: 125%;
 }
 
 *,
@@ -3302,7 +3302,7 @@ ul.no-bullet, ol.no-bullet {
   font-size: 0.75rem;
 }
 .button.large {
-  font-size: 1.25rem;
+  font-size: 1.50rem;
 }
 .button.expanded {
   display: block;
